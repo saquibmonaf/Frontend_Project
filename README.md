@@ -3,7 +3,7 @@
   A beginner-friendly responsive sidebar built using HTML and CSS.
 ## Preview
 
-![Sidebar Preview](images/sidebar-preview.png)
+![Sidebar Preview](images/sidebar-picture.png)
 
 ## Features
 
