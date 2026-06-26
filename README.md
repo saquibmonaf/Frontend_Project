@@ -1,10 +1,7 @@
 # Responsive Sidebar
 
   A beginner-friendly responsive sidebar built using HTML and CSS.
-## Preview
-
-![Sidebar Preview](images/softwarepic.png)
-
+  
 ## Features
 
   Responsive Sidebar
